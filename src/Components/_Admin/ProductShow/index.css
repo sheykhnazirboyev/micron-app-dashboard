@@ -1,0 +1,8 @@
+@import "~react-image-gallery/styles/css/image-gallery.css";
+
+.image-gallery-right-nav  {
+    display: none;
+}
+.image-gallery-left-nav  {
+    display: none;
+}
